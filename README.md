@@ -1,8 +1,8 @@
 # **Lab 8 PHP Database**
 
 ```
-Nama    : Dipca Anugrah
-NIM     : 312210666
+Nama    : Abid Luay Raihan Taufik
+NIM     : 312210401
 Kelas   : TI.22.A.4
 Matkul  : Pemrograman Web 1
 ```
